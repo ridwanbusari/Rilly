@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: The dinner table</title>
+    </head>
+    <body>
+
+        <h1>SALMAT EATERY DINNER MENU</h1>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Meal</th>
+                    <th>Ingredients</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Fried rice</td>
+                    <td>Maggi and salt</td>
+                    <td>N1500</td>
+                </tr>
+
+                <tr>
+                    <td>Potatoes</td>
+                    <td>Salat Cream</td>
+                    <td>N1000</td>
+                </tr>
+
+                <tr>
+                    <td>Oats</td>
+                    <td>milk and water</td>
+                    <td>N500</td>
+                </tr>
+
+
+            </tbody>
+        </table>
+
+    </body>
+</html>
